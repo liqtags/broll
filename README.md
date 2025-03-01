@@ -1,2 +1,4 @@
 # broll
-Use API to generate B-roll
+Use AI to generate B-roll
+
+

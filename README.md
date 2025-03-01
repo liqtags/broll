@@ -1,5 +1,5 @@
 # Broll
-Use AI to generate B-roll
+Suggests B-roll overlays for analyzed media based on marketing context
 
 - gatherMediaFiles
 - analyzeMediaFiles

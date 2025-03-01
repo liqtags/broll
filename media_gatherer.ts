@@ -1,11 +1,11 @@
 import {
     walk,
     exists
-} from "jsr:@std/fs";
+} from "jsr:@std/fs@1.0.13";
 
 import {
     join
-} from "jsr:@std/path";
+} from "jsr:@std/path@1.0.8";
 
 /**
  * Gather all media files from the given directory, including images and videos.

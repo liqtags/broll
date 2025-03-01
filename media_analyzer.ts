@@ -1,11 +1,11 @@
-import * as path from "jsr:@std/path";
+import * as path from "jsr:@std/path@1.0.8";
 import {
     ensureDir,
     exists
-} from "jsr:@std/fs";
+} from "jsr:@std/fs@1.0.13";
 import {
     encodeBase64
-} from "jsr:@std/encoding";
+} from "jsr:@std/encoding@1.0.7";
 
 // Define MediaItem interface
 interface MediaItem {

@@ -2,7 +2,7 @@
  * Module: @liquid/broll
  */
 
-import { openai } from "npm:openai";
+import { openai } from "npm:openai@4.86.1";
 
 // Define interfaces for the structured data
 interface BrollOverlay {
